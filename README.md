@@ -90,6 +90,6 @@ At **Enhub.ai**, I work on production cloud infrastructure end-to-end — author
 
 ### 📫 Let's connect — always open to conversations on cloud infra, DevOps automation, and building better platforms.
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=kirthi0071&color=blue&style=flat-square)
 
 </div>
