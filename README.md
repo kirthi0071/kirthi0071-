@@ -65,8 +65,8 @@
 At **Enhub.ai**, I work on production cloud infrastructure end-to-end — authoring modular Terraform for multi-environment GCP deployments, building GitOps CI/CD workflows with ArgoCD and Workload Identity Federation across 40+ microservices, designing shared Ingress architectures, running multi-cloud disaster recovery setups between AWS and GCP, and handling on-call troubleshooting for production incidents.
 
 **Featured projects:**
-- 🔒 **Zomato Clone – DevSecOps CI/CD Pipeline** — Multi-stage Jenkins pipeline with SonarQube, Trivy, and OWASP Dependency-Check gating deployments, monitored via Prometheus & Grafana.
-- ☸️ **Enterprise GitOps Pipeline on AWS EKS** — Declarative GitOps delivery with ArgoCD + Terraform-provisioned EKS clusters, IRSA, and Helm-based microservice management.
+- 🔒 **Zomato Clone – DevSecOps CI/CD Pipeline** - Multi-stage Jenkins pipeline with SonarQube, Trivy, and OWASP Dependency-Check gating deployments, monitored via Prometheus & Grafana.
+- ☸️ **Enterprise GitOps Pipeline on AWS EKS** - Declarative GitOps delivery with ArgoCD + Terraform-provisioned EKS clusters, IRSA, and Helm-based microservice management.
 
 ---
 
