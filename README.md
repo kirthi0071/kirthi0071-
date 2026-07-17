@@ -4,7 +4,7 @@
 
 ### Cloud & DevOps Engineer with 2+ years of experience building reliable, scalable, and secure infrastructure across **GCP, AWS, and Azure**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kirthi-kumar-07-)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kirthikumar077@gmail.com)
 [![Location](https://img.shields.io/badge/Bangalore-India-informational?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
@@ -62,11 +62,11 @@
 
 ### 💼 What I've been building
 
-At **Enhub.ai**, I work on production cloud infrastructure end-to-end - authoring modular Terraform for multi-environment GCP deployments, building GitOps CI/CD workflows with ArgoCD and Workload Identity Federation across 40+ microservices, designing shared Ingress architectures, running multi-cloud disaster recovery setups between AWS and GCP, and handling on-call troubleshooting for production incidents.
+At **Enhub.ai**, I work on production cloud infrastructure end-to-end — authoring modular Terraform for multi-environment GCP deployments, building GitOps CI/CD workflows with ArgoCD and Workload Identity Federation across 40+ microservices, designing shared Ingress architectures, running multi-cloud disaster recovery setups between AWS and GCP, and handling on-call troubleshooting for production incidents.
 
 **Featured projects:**
-- 🔒 **Zomato Clone - DevSecOps CI/CD Pipeline** - Multi-stage Jenkins pipeline with SonarQube, Trivy, and OWASP Dependency-Check gating deployments, monitored via Prometheus & Grafana.
-- ☸️ **Enterprise GitOps Pipeline on AWS EKS** - Declarative GitOps delivery with ArgoCD + Terraform-provisioned EKS clusters, IRSA, and Helm-based microservice management.
+- 🔒 **Zomato Clone – DevSecOps CI/CD Pipeline** — Multi-stage Jenkins pipeline with SonarQube, Trivy, and OWASP Dependency-Check gating deployments, monitored via Prometheus & Grafana.
+- ☸️ **Enterprise GitOps Pipeline on AWS EKS** — Declarative GitOps delivery with ArgoCD + Terraform-provisioned EKS clusters, IRSA, and Helm-based microservice management.
 
 ---
 
@@ -86,10 +86,8 @@ At **Enhub.ai**, I work on production cloud infrastructure end-to-end - authorin
 
 ---
 
-<div align="center">
-
 ### 📫 Let's connect — always open to conversations on cloud infra, DevOps automation, and building better platforms.
 
-![Profile Views](https://komarev.com/ghpvc/?username=kirthi0071&color=blue&style=flat-square)
-
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=kirthi0071&color=blue&style=flat-square" alt="Profile Views" />
 </div>
