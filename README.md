@@ -54,7 +54,9 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 **Security & Compliance**
-`IAM` · `Secret Manager` · `Least-privilege access control`
+![IAM](https://img.shields.io/badge/IAM-black?style=flat-square&logo=googlecloud&logoColor=white)
+![Secret Manager](https://img.shields.io/badge/Secret_Manager-black?style=flat-square&logo=googlecloud&logoColor=white)
+![Least Privilege](https://img.shields.io/badge/Least--Privilege_Access-black?style=flat-square&logo=shieldsdotio&logoColor=white)
 
 ---
 
